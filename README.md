@@ -7,7 +7,7 @@ Gobar gas plants, or biogas plants, present a promising solution for sustainable
 
 **_Reduction in Greenhouse Gas Emissions:_** By capturing methane, a potent greenhouse gas, from organic waste, gobar gas plants prevent its release into the atmosphere. This significantly reduces the carbon footprint compared to traditional waste disposal methods.
 
-_Renewable Energy Source:_**** Biogas produced in gobar gas plants is a renewable energy source that can be used for cooking, heating, and electricity generation. This reduces dependency on non-renewable fossil fuels, contributing to energy security and sustainability.
+_Renewable Energy Source:_ Biogas produced in gobar gas plants is a renewable energy source that can be used for cooking, heating, and electricity generation. This reduces dependency on non-renewable fossil fuels, contributing to energy security and sustainability.
 
 Waste Management: Gobar gas plants process organic waste, such as animal manure and kitchen scraps, effectively reducing the volume of waste that would otherwise end up in landfills. This helps in mitigating landfill-related issues, including odor, pests, and leachate contamination.
 
